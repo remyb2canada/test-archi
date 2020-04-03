@@ -133,4 +133,15 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_3ff2d5f7-976c-46cc-9ff8-4fb04c7f4ac0.xml#3ff2d5f7-976c-46cc-9ff8-4fb04c7f4ac0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="3186a22b-f3b4-48fb-8fba-ed33e79690fa"
+      textAlignment="1"
+      content="note">
+    <bounds
+        x="680"
+        y="352"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
